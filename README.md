@@ -1,4 +1,4 @@
-# MayaPythonDebuggingHowTo
+#Debugging in Maya Python
 Note: this how-to is summarized from this link: https://www.aleksandarkocic.com/2020/12/25/debugging-in-maya-with-debugpy-and-vscode/
 
 1. Install the official Python extension for Visual Studio (https://marketplace.visualstudio.com/items?itemName=ms-python.python)
