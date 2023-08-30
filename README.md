@@ -16,6 +16,7 @@ debugpy.listen(5678)
 ```
 5. In VS Code, create a `.vscode` folder in the main workspace folder and then create a `launch.json` file in this folder:
  ![image](https://github.com/AnsonSavage/MayaPythonDebuggingHowTo/assets/12112399/d2dcf958-baf6-42ac-a6a8-31c59ae96fb5)
+
 6. Copy this code into it (make usre that the port number matches the port that you asked debugpy to listen on):
 ```
 {
